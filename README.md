@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-|[![Anurag's GitHub stats](https://github-readme-stats-navy-one.vercel.app/api?username=mrluje)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-navy-one.vercel.app/api/top-langs/?username=mrluje&langs_count=6&hide=ruby,java&exclude_repo=selenium,terraform-provider-azurerm,kubernetes,argo-cd,terraform-provider-flexibleengine,terraform-provider-huaweicloud,go-swagger,skaffold,DefinitelyTyped&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Anurag's GitHub stats](https://github-readme-stats-navy-one.vercel.app/api?username=mrluje)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-navy-one.vercel.app/api/top-langs/?username=mrluje&langs_count=6&hide=ruby,java,python&exclude_repo=selenium,terraform-provider-azurerm,kubernetes,argo-cd,terraform-provider-flexibleengine,terraform-provider-huaweicloud,go-swagger,skaffold,DefinitelyTyped&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 | ------------- | ------------- |
 
 <!--
